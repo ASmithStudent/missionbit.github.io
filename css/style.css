@@ -1465,3 +1465,9 @@ a.gala-a {
     padding: 7px 9px;
     margin: 4px 0;
 }
+
+
+.bold-text {
+    font-weight: 700;
+    font-size: 12px;
+}
